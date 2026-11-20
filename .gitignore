@@ -1,0 +1,5 @@
+mysql/
+
+**/vendor/
+**/RestRequest/
+node_modules/
